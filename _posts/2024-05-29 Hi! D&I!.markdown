@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      "Hi! D&I!"
+subtitle:   " \"Diversity, Inclusively\""
+date:       2024-05-29 12:00:00
+author:     "Ziling Zhu"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - D&I Info
+---
+
+> “Yeah We're here. ”
+
+
+# 1. Inclusion of dictionary on gender identity
+
+| ID  | Term        | Definition                                                                                |
+| --- | ----------- | ----------------------------------------------------------------------------------------- |
+| 1   | Male        | A person who identifies as male.                                                          |
+| 2   | Female      | A person who identifies as female.                                                        |
+| 3   | Transgender | A person whose gender identity differs from the sex they were assigned at birth.          |
+| 4   | Non-binary  | A person who does not identify exclusively as male or female.                             |
+| 5   | Genderqueer | A person whose gender identity does not fit neatly into the categories of male or female. |
+| 6   | Genderfluid | A person whose gender identity changes over time.                                         |
+| 7   | Agender     | A person who does not identify with any gender.                                           |
+| 8   | Demigender  | A person who partially identifies as one or more genders.                                 |
+| 9   | Genderless  | A person who does not identify with any gender.                                           |
+
+# 2. Diversity scenarios
+[Diversity Practices in the Workplace: 3 Real-Life Scenarios | Software Advice](https://www.softwareadvice.com/resources/hr-challenges-diversity/#SnippetTab)
